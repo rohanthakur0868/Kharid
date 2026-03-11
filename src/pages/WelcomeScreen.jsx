@@ -171,7 +171,7 @@ const WelcomeScreen = () => {
                             <Heart className="w-4 h-4 fill-current" />
                         </motion.div>
                         <h3 className="text-3xl font-display font-bold text-secondary group flex items-center gap-3">
-                            <span className="text-gray-400 font-light">by</span> Desh Raj
+                            <span className="text-gray-400 font-light">by</span> Rohan Thakur
                         </h3>
                     </div>
 
